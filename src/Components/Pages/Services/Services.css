@@ -1,0 +1,133 @@
+.container {
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  .section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  
+  .section-reverse {
+    flex-direction: row-reverse;
+  }
+  
+  .content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .image {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .content h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .content p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .additional-services ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .additional-services ul li {
+    margin-bottom: 10px;
+  }
+  
+  .get-started h2 {
+    margin-bottom: 20px;
+  }
+  
+  .get-started p {
+    margin-bottom: 20px;
+  }
+  
+
+  .container {
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  .section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  
+  .section-reverse {
+    flex-direction: row-reverse;
+  }
+  
+  .content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .image {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .content h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .content p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .additional-services ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .additional-services ul li {
+    margin-bottom: 10px;
+  }
+  
+  .get-started h2 {
+    margin-bottom: 20px;
+  }
+  
+  .get-started p {
+    margin-bottom: 20px;
+  }
+  
+  .details-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .details-btn:hover {
+    background-color: #0056b3;
+  }
+  
